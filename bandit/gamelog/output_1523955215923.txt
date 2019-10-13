@@ -1,0 +1,443 @@
+Started new game.
+Spin button pressed
+.0
+Ran out of money
+Spin button pressed
+53.5
+Not a win.
+   
+Spin button pressed
+53.0
+Not a win.
+   
+Spin button pressed
+52.5
+Spin button pressed
+52.0
+Spin button pressed
+51.5
+You matched 2 sloth tokens, you only won 20p
+Spin button pressed
+51.2
+You matched 2 lust tokens, you won £1.50
+Spin button pressed
+52.2
+Not a win.
+   
+Spin button pressed
+51.7
+You matched 2 Pride tokens, you won £1
+Spin button pressed
+52.2
+Not a win.
+   
+Not a win.
+   
+Spin button pressed
+51.7
+Not a win.
+   
+Spin button pressed
+51.2
+Not a win.
+   
+You matched 2 Gluttony tokens, you won £1
+Spin button pressed
+51.7
+Spin button pressed
+51.2
+Spin button pressed
+50.7
+Not a win.
+   
+Spin button pressed
+50.2
+Not a win.
+   
+Spin button pressed
+49.7
+Spin button pressed
+49.2
+Not a win.
+   
+Not a win.
+   
+Spin button pressed
+48.7
+You matched 2 envy tokens, you won £1
+Spin button pressed
+49.2
+Spin button pressed
+48.7
+Not a win.
+   
+Spin button pressed
+48.2
+Spin button pressed
+47.7
+Not a win.
+   
+You matched 2 envy tokens, you won £1
+Spin button pressed
+48.2
+You matched 2 greed tokens, you won £2
+Spin button pressed
+49.7
+Not a win.
+   
+Spin button pressed
+49.2
+Spin button pressed
+48.7
+Not a win.
+   
+Spin button pressed
+48.2
+Not a win.
+   
+Spin button pressed
+47.7
+Not a win.
+   
+Spin button pressed
+47.2
+Not a win.
+   
+Spin button pressed
+46.7
+Not a win.
+   
+Spin button pressed
+46.2
+Not a win.
+   
+Spin button pressed
+45.7
+You matched 2 envy tokens, you won £1
+Spin button pressed
+46.2
+Spin button pressed
+45.7
+You matched 3 greed tokens, you won £20
+You matched 2 sloth tokens, you only won 20p
+Spin button pressed
+65.4
+Not a win.
+   
+Spin button pressed
+64.9
+Not a win.
+   
+Spin button pressed
+64.4
+Not a win.
+   
+Spin button pressed
+63.9
+You matched 2 devil tokens, you lose half your money
+Spin button pressed
+31.7
+Not a win.
+   
+Spin button pressed
+31.2
+Not a win.
+   
+Spin button pressed
+30.7
+Not a win.
+   
+Spin button pressed
+30.2
+Not a win.
+   
+Spin button pressed
+29.7
+You matched 2 Pride tokens, you won £1
+Spin button pressed
+30.2
+Not a win.
+   
+Spin button pressed
+29.7
+Not a win.
+   
+Spin button pressed
+29.2
+Not a win.
+   
+Spin button pressed
+28.7
+Not a win.
+   
+Spin button pressed
+28.2
+Not a win.
+   
+Spin button pressed
+27.7
+You matched 2 Wrath tokens, you won £1
+Spin button pressed
+28.2
+Not a win.
+   
+Spin button pressed
+27.7
+Not a win.
+   
+Spin button pressed
+27.2
+Not a win.
+   
+Spin button pressed
+26.7
+You matched 2 lust tokens, you won £1.50
+Spin button pressed
+27.7
+Not a win.
+   
+Spin button pressed
+27.2
+You matched 2 Wrath tokens, you won £1
+Spin button pressed
+27.7
+You matched 2 Pride tokens, you won £1
+Spin button pressed
+28.2
+You matched 2 sloth tokens, you only won 20p
+Spin button pressed
+27.9
+Not a win.
+   
+Spin button pressed
+27.4
+Not a win.
+   
+Spin button pressed
+26.9
+Not a win.
+   
+Not a win.
+   
+Spin button pressed
+26.4
+Not a win.
+   
+Spin button pressed
+25.9
+Not a win.
+   
+Spin button pressed
+25.4
+You matched 2 Pride tokens, you won £1
+Spin button pressed
+25.9
+Not a win.
+   
+Spin button pressed
+25.4
+Not a win.
+   
+Spin button pressed
+24.9
+Not a win.
+   
+Spin button pressed
+24.4
+Not a win.
+   
+Spin button pressed
+23.9
+Not a win.
+   
+Spin button pressed
+23.4
+Not a win.
+   
+Spin button pressed
+22.9
+Not a win.
+   
+Spin button pressed
+22.4
+Not a win.
+   
+Spin button pressed
+21.9
+Not a win.
+   
+Spin button pressed
+21.4
+Not a win.
+   
+Spin button pressed
+20.9
+You matched 2 greed tokens, you won £2
+Spin button pressed
+22.4
+Not a win.
+   
+Spin button pressed
+21.9
+You matched 2 Wrath tokens, you won £1
+Spin button pressed
+22.4
+Not a win.
+   
+Spin button pressed
+21.9
+Spin button pressed
+21.4
+Not a win.
+   
+Spin button pressed
+20.9
+Not a win.
+   
+Spin button pressed
+20.4
+You matched 2 greed tokens, you won £2
+Spin button pressed
+21.9
+Not a win.
+   
+Spin button pressed
+21.4
+Not a win.
+   
+Spin button pressed
+20.9
+You matched 2 envy tokens, you won £1
+Not a win.
+   
+Spin button pressed
+21.4
+Not a win.
+   
+Spin button pressed
+20.9
+You matched 2 greed tokens, you won £2
+Spin button pressed
+22.4
+You matched 2 lust tokens, you won £1.50
+Spin button pressed
+23.4
+You matched 2 lust tokens, you won £1.50
+Spin button pressed
+24.4
+Not a win.
+   
+Spin button pressed
+23.9
+Spin button pressed
+23.4
+You matched 2 devil tokens, you lose half your money
+Spin button pressed
+11.45
+Not a win.
+   
+Spin button pressed
+10.95
+Not a win.
+   
+Spin button pressed
+10.45
+Not a win.
+   
+Spin button pressed
+9.95
+You matched 2 sloth tokens, you only won 20p
+Spin button pressed
+9.65
+Not a win.
+   
+Spin button pressed
+9.15
+You matched 2 Wrath tokens, you won £1
+Spin button pressed
+9.65
+Not a win.
+   
+Spin button pressed
+9.15
+Not a win.
+   
+Spin button pressed
+8.65
+Not a win.
+   
+Spin button pressed
+8.15
+You matched 2 Gluttony tokens, you won £1
+Spin button pressed
+8.65
+Not a win.
+   
+Spin button pressed
+8.15
+You matched 2 devil tokens, you lose half your money
+Spin button pressed
+3.83
+Not a win.
+   
+Spin button pressed
+3.33
+Spin button pressed
+2.83
+Not a win.
+   
+Spin button pressed
+2.33
+You matched 2 sloth tokens, you only won 20p
+You matched 2 envy tokens, you won £1
+Spin button pressed
+3.03
+Not a win.
+   
+Spin button pressed
+2.53
+Not a win.
+   
+You matched 2 Gluttony tokens, you won £1
+Spin button pressed
+3.03
+Not a win.
+   
+Spin button pressed
+2.53
+Not a win.
+   
+Spin button pressed
+2.03
+You matched 2 envy tokens, you won £1
+Spin button pressed
+2.53
+You matched 2 devil tokens, you lose half your money
+Spin button pressed
+1.01
+You matched 2 envy tokens, you won £1
+Spin button pressed
+1.51
+Not a win.
+   
+Spin button pressed
+1.01
+Not a win.
+   
+Not a win.
+   
+Not a win.
+   
+Not a win.
+   
+Spin button pressed
+.51
+Ran out of money
+Spin button pressed
+10.01
+You matched 2 envy tokens, you won £1
+Hold button 2 pressed
+Hold button 1 pressed
+Spin button pressed
+10.51
+You matched 3 Envy tokens, you won £5
